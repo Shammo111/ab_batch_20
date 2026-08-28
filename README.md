@@ -1,3 +1,4 @@
+====/>For Nerds =/> If you want a SQL databse of the fllowing data pls call SHAMMO </= For Nerds </==
 # AB Batch 20
 | NAME           | ID   | NUMBER        | DATE OF BIRTH (DD-MM) |
 |----------------|------|---------------|----------------------|
